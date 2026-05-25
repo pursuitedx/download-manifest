@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "updated_by": "Overclocking App audit setup",
+  "downloads": {
+    "ryzen": {
+      "label": "Ryzen suite",
+      "url": "https://cache.apextweaks.net/Ryzen.zip"
+    },
+    "intel": {
+      "label": "Intel suite",
+      "url": "https://cache.apextweaks.net/Intel.zip"
+    },
+    "nvidia": {
+      "label": "NVIDIA suite",
+      "url": "https://cache.apextweaks.net/NVIDIA.zip"
+    },
+    "radeon": {
+      "label": "Radeon suite",
+      "url": "https://cache.apextweaks.net/Radeon.zip"
+    },
+    "zentimings": {
+      "label": "ZenTimings",
+      "url": "https://github.com/irusanov/ZenTimings/releases/download/v1.35/ZenTimings_v1.35.zip"
+    },
+    "occt": {
+      "label": "OCCT",
+      "url": "https://cache.apextweaks.net/occt.zip"
+    }
+  }
+}
