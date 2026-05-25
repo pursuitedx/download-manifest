@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_by": "Overclocking App audit setup",
+  "updated_by": "Overclocking App misc tools setup",
   "downloads": {
     "ryzen": {
       "label": "Ryzen suite",
@@ -25,6 +25,14 @@
     "occt": {
       "label": "OCCT",
       "url": "https://cache.apextweaks.net/occt.zip"
+    },
+    "ryzen_sdt": {
+      "label": "Ryzen SDT",
+      "url": "https://cache.apextweaks.net/ryzensdt.zip"
+    },
+    "cinebench_r23": {
+      "label": "Cinebench R23",
+      "url": "https://cache.apextweaks.net/Cinebench%20R23.zip"
     }
   }
 }
